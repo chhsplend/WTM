@@ -562,7 +562,7 @@ layui.use(['table'], function(){{
 }})
 </script>
 <script type=""text / html"" id=""{ToolBarId}2"" >
-<div style=""text-align:right;margin-right:{lefttoolbarmergin}px"">{toolBarBtnStrBuilder}</div>
+<div style=""text-align: left;margin-right:{lefttoolbarmergin}px"">{toolBarBtnStrBuilder}</div>
 </script>
 <!-- Grid 行内按钮 -->
 <script type=""text/html"" id=""{ToolBarId}"">{rowBtnStrBuilder}</script>
